@@ -2,10 +2,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const backButton = document.getElementById("backButton");
 
   const frames = [
-    "/images/hover1.png",
-    "/images/hover.png",
-    "/images/hover2.png",
-    "/images/hover.png"
+    "images/hover1.png",
+    "images/hover.png",
+    "images/hover2.png",
+    "images/hover.png"
   ];
 
    let animationInterval = null; // setInterval のIDを保存する変数
